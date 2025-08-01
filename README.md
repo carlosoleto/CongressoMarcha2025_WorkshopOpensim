@@ -3,4 +3,7 @@ Dados necessários para participação do Workshop em Opensim do Congresso Brasi
 
 
 Dados
+
 https://www.vicon.com/software/models-and-scripts/nexus-sample-data/
+
+https://www.vicon.com/software/models-and-scripts/cgm-2-sample-data/?section=downloads
