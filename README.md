@@ -8,8 +8,10 @@ Caro participante, antes do Workshop por favor siga os passos abaixo:
      - OpenSim: https://opensim.stanford.edu/
    - Opcionais:
      - OpenSim Creator: https://www.opensimcreator.com/
-     - Mokka: 
-     - API Python: https://anacsousa.notion.site/3-Python-environment-with-Moco-Windows-a71f2c42368149799277f8b82226fa1f 
+     - Mokka: .zip na pasta deste repositório.
+     - API Python: https://anacsousa.notion.site/3-Python-environment-with-Moco-Windows-a71f2c42368149799277f8b82226fa1f
+ - Baixe este repositório em sua máquina.
+  - Botão verde no canto superior direito (escolha opção ZIP).  
 
 
 ## Esclarecimentos
