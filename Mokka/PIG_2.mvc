@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MokkaModelVisualConfiguration name="PIG_2" version="1.0">
+    <MarkersList>
+        <Marker label="LASI" radius="8" colorR="1" colorG="1" colorB="0" visible="1" trajectory="0"/>
+        <Marker label="RASI" radius="8" colorR="1" colorG="1" colorB="0" visible="1" trajectory="0"/>
+        <Marker label="RPSI" radius="8" colorR="1" colorG="1" colorB="0.498039" visible="1" trajectory="0"/>
+        <Marker label="LTHI" radius="8" colorR="1" colorG="0" colorB="0" visible="1" trajectory="0"/>
+        <Marker label="LKNE" radius="8" colorR="1" colorG="0" colorB="0" visible="1" trajectory="0"/>
+        <Marker label="LTIB" radius="8" colorR="1" colorG="0" colorB="0" visible="1" trajectory="0"/>
+        <Marker label="LANK" radius="8" colorR="1" colorG="0" colorB="0" visible="1" trajectory="0"/>
+        <Marker label="LHEE" radius="8" colorR="1" colorG="0" colorB="0" visible="1" trajectory="0"/>
+        <Marker label="LTOE" radius="8" colorR="1" colorG="0" colorB="0" visible="1" trajectory="0"/>
+        <Marker label="RTHI" radius="8" colorR="0" colorG="1" colorB="0" visible="1" trajectory="0"/>
+        <Marker label="RKNE" radius="8" colorR="0" colorG="1" colorB="0" visible="1" trajectory="0"/>
+        <Marker label="RTIB" radius="8" colorR="0" colorG="1" colorB="0" visible="1" trajectory="0"/>
+        <Marker label="RANK" radius="8" colorR="0" colorG="1" colorB="0" visible="1" trajectory="0"/>
+        <Marker label="RHEE" radius="8" colorR="0" colorG="1" colorB="0" visible="1" trajectory="0"/>
+        <Marker label="RTOE" radius="8" colorR="0" colorG="1" colorB="0" visible="1" trajectory="0"/>
+        <Marker label="LPSI" radius="8" colorR="1" colorG="1" colorB="0.498039" visible="1" trajectory="0"/>
+        <Marker label="PELO" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="PELA" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="PELL" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="PELP" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LFEO" radius="4" colorR="1" colorG="0" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LFEA" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LFEL" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LFEP" radius="8" colorR="1" colorG="0" colorB="0" visible="0" trajectory="0"/>
+        <Marker label="LTIO" radius="8" colorR="1" colorG="0" colorB="0" visible="0" trajectory="0"/>
+        <Marker label="LTIA" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LTIL" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LTIP" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LFOO" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LFOA" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LFOL" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LFOP" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LTOO" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LTOA" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LTOL" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LTOP" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RFEO" radius="4" colorR="1" colorG="0" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RFEA" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RFEL" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RFEP" radius="8" colorR="0" colorG="1" colorB="0" visible="0" trajectory="0"/>
+        <Marker label="RTIO" radius="8" colorR="0" colorG="1" colorB="0" visible="0" trajectory="0"/>
+        <Marker label="RTIA" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RTIL" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RTIP" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RFOO" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RFOA" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RFOL" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RFOP" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RTOO" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RTOA" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RTOL" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RTOP" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+    </MarkersList>
+    <SegmentsList>
+        <Segment label="lfoot" colorR="1" colorG="0" colorB="0" visible="1" surface="0" description="">
+            <Point label="LTOE"/>
+            <Point label="LHEE"/>
+            <Link pt1="LHEE" pt2="LTOE"/>
+        </Segment>
+        <Segment label="rfoot" colorR="0" colorG="1" colorB="0" visible="1" surface="0" description="">
+            <Point label="RHEE"/>
+            <Point label="RTOE"/>
+            <Link pt1="RHEE" pt2="RTOE"/>
+        </Segment>
+        <Segment label="Rfemur" colorR="0" colorG="1" colorB="0" visible="1" surface="0" description="">
+            <Point label="RFEO"/>
+            <Point label="RFEP"/>
+            <Link pt1="RFEO" pt2="RFEP"/>
+        </Segment>
+        <Segment label="Rtibia" colorR="0" colorG="1" colorB="0" visible="1" surface="0" description="">
+            <Point label="RFEO"/>
+            <Point label="RTIO"/>
+            <Link pt1="RFEO" pt2="RTIO"/>
+        </Segment>
+        <Segment label="LFemur" colorR="1" colorG="0" colorB="0" visible="1" surface="0" description="">
+            <Point label="LFEO"/>
+            <Point label="LFEP"/>
+            <Link pt1="LFEO" pt2="LFEP"/>
+        </Segment>
+        <Segment label="LTibia" colorR="1" colorG="0" colorB="0" visible="1" surface="0" description="">
+            <Point label="LFEO"/>
+            <Point label="LTIO"/>
+            <Link pt1="LFEO" pt2="LTIO"/>
+        </Segment>
+        <Segment label="pelvis" colorR="1" colorG="1" colorB="0.498039" visible="1" surface="1" description="">
+            <Point label="LASI"/>
+            <Point label="RASI"/>
+            <Point label="RPSI"/>
+            <Point label="LPSI"/>
+            <Link pt1="LASI" pt2="RASI"/>
+            <Link pt1="LASI" pt2="RPSI"/>
+            <Link pt1="LASI" pt2="LPSI"/>
+            <Link pt1="LPSI" pt2="RASI"/>
+            <Link pt1="RASI" pt2="RPSI"/>
+            <Face pt1="LASI" pt2="RASI" pt3="RPSI"/>
+            <Face pt1="LASI" pt2="LPSI" pt3="RASI"/>
+        </Segment>
+    </SegmentsList>
+</MokkaModelVisualConfiguration>

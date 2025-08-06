@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MokkaModelVisualConfiguration name="pyCGM2_2" version="1.0">
+    <MarkersList>
+        <Marker label="PELVIS_CGM_2.3O" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="PELVIS_CGM_2.3A" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="PELVIS_CGM_2.3L" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="PELVIS_CGM_2.3P" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LFEMUR_CGM_2.3O" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LFEMUR_CGM_2.3A" radius="8" colorR="0.329412" colorG="0.666667" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LFEMUR_CGM_2.3L" radius="8" colorR="0.329412" colorG="0.666667" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LFEMUR_CGM_2.3P" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LTIBIA_CGM_2.3O" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LTIBIA_CGM_2.3A" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LTIBIA_CGM_2.3L" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LTIBIA_CGM_2.3P" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LFOOT_CGM_2.3O" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LFOOT_CGM_2.3A" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LFOOT_CGM_2.3L" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LFOOT_CGM_2.3P" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LTOES_CGM_2.3O" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LTOES_CGM_2.3A" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LTOES_CGM_2.3L" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LTOES_CGM_2.3P" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RFEMUR_CGM_2.3O" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RFEMUR_CGM_2.3A" radius="8" colorR="0.329412" colorG="0.666667" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RFEMUR_CGM_2.3L" radius="8" colorR="0.329412" colorG="0.666667" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RFEMUR_CGM_2.3P" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RTIBIA_CGM_2.3O" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RTIBIA_CGM_2.3A" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RTIBIA_CGM_2.3L" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RTIBIA_CGM_2.3P" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RFOOT_CGM_2.3O" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RFOOT_CGM_2.3A" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RFOOT_CGM_2.3L" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RFOOT_CGM_2.3P" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RTOES_CGM_2.3O" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RTOES_CGM_2.3A" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RTOES_CGM_2.3L" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RTOES_CGM_2.3P" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LASI" radius="8" colorR="1" colorG="1" colorB="0.494118" visible="1" trajectory="0"/>
+        <Marker label="RASI" radius="8" colorR="1" colorG="1" colorB="0.494118" visible="1" trajectory="0"/>
+        <Marker label="LPSI" radius="8" colorR="1" colorG="1" colorB="0.494118" visible="1" trajectory="0"/>
+        <Marker label="RPSI" radius="8" colorR="1" colorG="1" colorB="0.494118" visible="1" trajectory="0"/>
+        <Marker label="LTHI" radius="8" colorR="1" colorG="1" colorB="1" visible="1" trajectory="0"/>
+        <Marker label="LTHAP" radius="8" colorR="1" colorG="1" colorB="1" visible="1" trajectory="0"/>
+        <Marker label="LTHAD" radius="8" colorR="1" colorG="1" colorB="1" visible="1" trajectory="0"/>
+        <Marker label="LKNE" radius="8" colorR="1" colorG="1" colorB="1" visible="1" trajectory="0"/>
+        <Marker label="LTIB" radius="8" colorR="1" colorG="1" colorB="1" visible="1" trajectory="0"/>
+        <Marker label="LTIAP" radius="8" colorR="1" colorG="1" colorB="1" visible="1" trajectory="0"/>
+        <Marker label="LTIAD" radius="8" colorR="1" colorG="1" colorB="1" visible="1" trajectory="0"/>
+        <Marker label="LANK" radius="8" colorR="1" colorG="1" colorB="1" visible="1" trajectory="0"/>
+        <Marker label="LHEE" radius="8" colorR="1" colorG="0" colorB="0" visible="1" trajectory="0"/>
+        <Marker label="LTOE" radius="8" colorR="1" colorG="0" colorB="0" visible="1" trajectory="0"/>
+        <Marker label="RTHI" radius="8" colorR="1" colorG="1" colorB="0" visible="1" trajectory="0"/>
+        <Marker label="RTHAP" radius="8" colorR="1" colorG="1" colorB="0" visible="1" trajectory="0"/>
+        <Marker label="RTHAD" radius="8" colorR="1" colorG="1" colorB="0" visible="1" trajectory="0"/>
+        <Marker label="RKNE" radius="8" colorR="1" colorG="1" colorB="0" visible="1" trajectory="0"/>
+        <Marker label="RTIB" radius="8" colorR="1" colorG="1" colorB="1" visible="1" trajectory="0"/>
+        <Marker label="RTIAP" radius="8" colorR="1" colorG="1" colorB="1" visible="1" trajectory="0"/>
+        <Marker label="RTIAD" radius="8" colorR="1" colorG="1" colorB="1" visible="1" trajectory="0"/>
+        <Marker label="RANK" radius="8" colorR="1" colorG="1" colorB="1" visible="1" trajectory="0"/>
+        <Marker label="RHEE" radius="8" colorR="0.329412" colorG="1" colorB="0.494118" visible="1" trajectory="0"/>
+        <Marker label="RTOE" radius="8" colorR="0.329412" colorG="1" colorB="0.494118" visible="1" trajectory="0"/>
+        <Marker label="LHJC_CGM_2.3" radius="8" colorR="1" colorG="0" colorB="0" visible="1" trajectory="0"/>
+        <Marker label="LKJC_CGM_2.3" radius="8" colorR="1" colorG="0" colorB="0" visible="1" trajectory="0"/>
+        <Marker label="RHJC_CGM_2.3" radius="8" colorR="0.329412" colorG="1" colorB="0.494118" visible="1" trajectory="0"/>
+        <Marker label="RKJC_CGM_2.3" radius="8" colorR="0.329412" colorG="1" colorB="0.494118" visible="1" trajectory="0"/>
+        <Marker label="LAJC_CGM_2.3" radius="8" colorR="1" colorG="0" colorB="0" visible="1" trajectory="0"/>
+        <Marker label="RAJC_CGM_2.3" radius="8" colorR="0.329412" colorG="1" colorB="0.494118" visible="1" trajectory="0"/>
+        <Marker label="PELO" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="PELA" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="PELL" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="PELP" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LFEO" radius="8" colorR="1" colorG="0" colorB="0" visible="0" trajectory="0"/>
+        <Marker label="LFEA" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LFEL" radius="8" colorR="0.329412" colorG="0.666667" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LFEP" radius="8" colorR="1" colorG="0" colorB="0" visible="0" trajectory="0"/>
+        <Marker label="LTIO" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LTIA" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LTIL" radius="8" colorR="0.329412" colorG="0.666667" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LTIP" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LFOO" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LFOA" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LFOL" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LFOP" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LTOO" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LTOA" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LTOL" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="LTOP" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RFEO" radius="8" colorR="0.329412" colorG="1" colorB="0.494118" visible="0" trajectory="0"/>
+        <Marker label="RFEA" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RFEL" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RFEP" radius="8" colorR="0.329412" colorG="1" colorB="0.494118" visible="0" trajectory="0"/>
+        <Marker label="RTIO" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RTIA" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RTIL" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RTIP" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RFOO" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RFOA" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RFOL" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RFOP" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RTOO" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RTOA" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RTOL" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+        <Marker label="RTOP" radius="8" colorR="1" colorG="1" colorB="1" visible="0" trajectory="0"/>
+    </MarkersList>
+    <SegmentsList>
+        <Segment label="pelvis1" colorR="1" colorG="1" colorB="0.494118" visible="1" surface="1" description="">
+            <Point label="LASI"/>
+            <Point label="RASI"/>
+            <Point label="LPSI"/>
+            <Link pt1="LASI" pt2="LPSI"/>
+            <Link pt1="LASI" pt2="RASI"/>
+            <Link pt1="LPSI" pt2="RASI"/>
+            <Face pt1="LASI" pt2="LPSI" pt3="RASI"/>
+        </Segment>
+        <Segment label="pelvis2" colorR="1" colorG="1" colorB="0.494118" visible="1" surface="1" description="">
+            <Point label="LASI"/>
+            <Point label="RASI"/>
+            <Point label="RPSI"/>
+            <Link pt1="LASI" pt2="RASI"/>
+            <Link pt1="LASI" pt2="RPSI"/>
+            <Link pt1="RASI" pt2="RPSI"/>
+            <Face pt1="LASI" pt2="RASI" pt3="RPSI"/>
+        </Segment>
+        <Segment label="Lfemur" colorR="1" colorG="0" colorB="0" visible="1" surface="0" description="">
+            <Point label="LHJC_CGM_2.3"/>
+            <Point label="LKJC_CGM_2.3"/>
+            <Link pt1="LHJC_CGM_2.3" pt2="LKJC_CGM_2.3"/>
+        </Segment>
+        <Segment label="Ltibia" colorR="1" colorG="0" colorB="0" visible="1" surface="0" description="">
+            <Point label="LKJC_CGM_2.3"/>
+            <Point label="LAJC_CGM_2.3"/>
+            <Link pt1="LAJC_CGM_2.3" pt2="LKJC_CGM_2.3"/>
+        </Segment>
+        <Segment label="Lfoot" colorR="1" colorG="0" colorB="0" visible="1" surface="1" description="">
+            <Point label="LHEE"/>
+            <Point label="LTOE"/>
+            <Point label="LAJC_CGM_2.3"/>
+            <Link pt1="LAJC_CGM_2.3" pt2="LHEE"/>
+            <Link pt1="LAJC_CGM_2.3" pt2="LTOE"/>
+            <Link pt1="LHEE" pt2="LTOE"/>
+            <Face pt1="LAJC_CGM_2.3" pt2="LHEE" pt3="LTOE"/>
+        </Segment>
+        <Segment label="Rfemur" colorR="0.329412" colorG="1" colorB="0.494118" visible="1" surface="0" description="">
+            <Point label="RHJC_CGM_2.3"/>
+            <Point label="RKJC_CGM_2.3"/>
+            <Link pt1="RHJC_CGM_2.3" pt2="RKJC_CGM_2.3"/>
+        </Segment>
+        <Segment label="Rtibia" colorR="0.329412" colorG="1" colorB="0.494118" visible="1" surface="0" description="">
+            <Point label="RKJC_CGM_2.3"/>
+            <Point label="RAJC_CGM_2.3"/>
+            <Link pt1="RAJC_CGM_2.3" pt2="RKJC_CGM_2.3"/>
+        </Segment>
+        <Segment label="Rfoot" colorR="0.329412" colorG="1" colorB="0.494118" visible="1" surface="1" description="">
+            <Point label="RHEE"/>
+            <Point label="RTOE"/>
+            <Point label="RAJC_CGM_2.3"/>
+            <Link pt1="RAJC_CGM_2.3" pt2="RHEE"/>
+            <Link pt1="RAJC_CGM_2.3" pt2="RTOE"/>
+            <Link pt1="RHEE" pt2="RTOE"/>
+            <Face pt1="RAJC_CGM_2.3" pt2="RHEE" pt3="RTOE"/>
+        </Segment>
+        <Segment label="LfemurX axis" colorR="1" colorG="0.431373" colorB="0.439216" visible="1" surface="0" description="">
+            <Point label="LFEMUR_CGM_2.3L"/>
+            <Point label="LKJC_CGM_2.3"/>
+            <Link pt1="LFEMUR_CGM_2.3L" pt2="LKJC_CGM_2.3"/>
+        </Segment>
+        <Segment label="Lfemur Y axis" colorR="1" colorG="0.431373" colorB="0.439216" visible="1" surface="0" description="">
+            <Point label="LFEMUR_CGM_2.3A"/>
+            <Point label="LKJC_CGM_2.3"/>
+            <Link pt1="LFEMUR_CGM_2.3A" pt2="LKJC_CGM_2.3"/>
+        </Segment>
+        <Segment label="Rfemur X axis" colorR="0.411765" colorG="1" colorB="0.67451" visible="1" surface="0" description="">
+            <Point label="RFEMUR_CGM_2.3L"/>
+            <Point label="RKJC_CGM_2.3"/>
+            <Link pt1="RFEMUR_CGM_2.3L" pt2="RKJC_CGM_2.3"/>
+        </Segment>
+        <Segment label="Rfemur Y axis" colorR="0.411765" colorG="1" colorB="0.67451" visible="1" surface="0" description="">
+            <Point label="RFEMUR_CGM_2.3A"/>
+            <Point label="RKJC_CGM_2.3"/>
+            <Link pt1="RFEMUR_CGM_2.3A" pt2="RKJC_CGM_2.3"/>
+        </Segment>
+        <Segment label="Cluster1" colorR="1" colorG="1" colorB="0" visible="1" surface="1" description="">
+            <Point label="RTHI"/>
+            <Point label="RTHAP"/>
+            <Point label="RTHAD"/>
+            <Point label="RKNE"/>
+            <Link pt1="RKNE" pt2="RTHAD"/>
+            <Link pt1="RKNE" pt2="RTHI"/>
+            <Link pt1="RTHAD" pt2="RTHI"/>
+            <Link pt1="RTHAD" pt2="RTHAP"/>
+            <Link pt1="RTHAP" pt2="RTHI"/>
+            <Face pt1="RKNE" pt2="RTHAD" pt3="RTHI"/>
+            <Face pt1="RTHAD" pt2="RTHAP" pt3="RTHI"/>
+        </Segment>
+        <Segment label="Cluster2" colorR="1" colorG="1" colorB="1" visible="1" surface="1" description="">
+            <Point label="LTHI"/>
+            <Point label="LTHAP"/>
+            <Point label="LTHAD"/>
+            <Point label="LKNE"/>
+            <Link pt1="LKNE" pt2="LTHAD"/>
+            <Link pt1="LKNE" pt2="LTHI"/>
+            <Link pt1="LTHAD" pt2="LTHAP"/>
+            <Link pt1="LTHAD" pt2="LTHI"/>
+            <Link pt1="LTHAP" pt2="LTHI"/>
+            <Face pt1="LTHAD" pt2="LTHAP" pt3="LTHI"/>
+            <Face pt1="LKNE" pt2="LTHAD" pt3="LTHI"/>
+        </Segment>
+    </SegmentsList>
+</MokkaModelVisualConfiguration>
